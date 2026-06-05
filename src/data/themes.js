@@ -1,0 +1,98 @@
+export const themes = [
+  {
+    id: 'moroccan',
+    name: 'Moroccan',
+    description: 'Rich colors, decorative patterns, traditional luxury',
+    colors: {
+      primary: '#C0392B',
+      secondary: '#D4A574',
+      accent: '#2C3E50',
+      wall: '#F5E6CA',
+      floor: '#8B4513',
+    },
+  },
+  {
+    id: 'bohemian',
+    name: 'Bohemian',
+    description: 'Artistic style, plants, cozy atmosphere',
+    colors: {
+      primary: '#8E44AD',
+      secondary: '#E67E22',
+      accent: '#1ABC9C',
+      wall: '#FDF2E9',
+      floor: '#A0522D',
+    },
+  },
+  {
+    id: 'minimalist',
+    name: 'Minimalist',
+    description: 'Clean design, simple furniture, open space',
+    colors: {
+      primary: '#ECF0F1',
+      secondary: '#BDC3C7',
+      accent: '#2C3E50',
+      wall: '#FFFFFF',
+      floor: '#D5D8DC',
+    },
+  },
+  {
+    id: 'monochromatic',
+    name: 'Monochromatic',
+    description: 'Single color palette, elegant appearance',
+    colors: {
+      primary: '#34495E',
+      secondary: '#5D6D7E',
+      accent: '#1A252F',
+      wall: '#E8E8E8',
+      floor: '#7F8C8D',
+    },
+  },
+  {
+    id: 'scandinavian',
+    name: 'Scandinavian',
+    description: 'Light colors, wooden furniture, functional design',
+    colors: {
+      primary: '#F8F9FA',
+      secondary: '#E9ECEF',
+      accent: '#D4A574',
+      wall: '#FAFAFA',
+      floor: '#DEB887',
+    },
+  },
+  {
+    id: 'industrial',
+    name: 'Industrial',
+    description: 'Brick walls, metal accents, urban look',
+    colors: {
+      primary: '#7F8C8D',
+      secondary: '#95A5A6',
+      accent: '#E74C3C',
+      wall: '#A0522D',
+      floor: '#566573',
+    },
+  },
+  {
+    id: 'modern-luxury',
+    name: 'Modern Luxury',
+    description: 'Premium materials, sophisticated design',
+    colors: {
+      primary: '#1C1C1C',
+      secondary: '#C0A060',
+      accent: '#FFFFFF',
+      wall: '#F5F0EB',
+      floor: '#3D3D3D',
+    },
+  },
+  {
+    id: 'contemporary',
+    name: 'Contemporary',
+    description: 'Current design trends, balanced aesthetics',
+    colors: {
+      primary: '#2C3E50',
+      secondary: '#E74C3C',
+      accent: '#3498DB',
+      wall: '#F4F6F7',
+      floor: '#909497',
+    },
+  },
+];
